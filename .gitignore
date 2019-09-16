@@ -1,4 +1,15 @@
 # Byte-compiled / optimized / DLL files
+
+.idea/
+.DS_Store/
+.DS_Store
+*/.DS_Store/
+*/.DS_Store
+
+*.zip
+
+week_01/neural_network/MNIST/
+
 __pycache__/
 *.py[cod]
 *$py.class
