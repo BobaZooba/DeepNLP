@@ -6,7 +6,7 @@
 
 [Чат](https://t.me/joinchat/Bp0V0UPTLBJHv3o7XiBFaA)
 
-[Обзор проектов, которые можно сделать](https://youtu.be/TLauwjPkbS0):  
+[Обзор проектов, которые можно сделать](https://youtu.be/TLauwjPkbS0)
 
 # Syllabus
 
