@@ -10,7 +10,7 @@
 
 # Syllabus
 
-## Week 1
+### Week 1: Neural Networks
 
 [Первая лекция вкратце](https://youtu.be/jEMdv9fW2ZA)  
 [Видео про производные](https://youtu.be/tZ0yCzWfbZc)
