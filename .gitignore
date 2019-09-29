@@ -6,7 +6,7 @@
 */.DS_Store/
 */.DS_Store
 
-*.zip
+week_01/neural_network/out_library.zip
 
 /week_02/word2vec_utils.py
 word2vec_utils.py
