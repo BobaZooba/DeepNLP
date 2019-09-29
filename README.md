@@ -41,12 +41,12 @@
 ### Видео
 
 ### Слайды
-[Слайды Tricks in Deep Learning](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/Tricks%20in%20DL.pdf)  
-[Слайды Recurrent Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/RNN.pdf)  
-[Слайды Convolutional Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/CNN.pdf)
+[Tricks in Deep Learning](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/Tricks%20in%20DL.pdf)  
+[Recurrent Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/RNN.pdf)  
+[Convolutional Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/CNN.pdf)
 
 ### Домашка (вторая часть)
 
 # Связь с преподавателем
-bobazooba@yandex.ru
-https://t.me/bobazooba
+[bobazooba@yandex.ru](mailto:bobazooba@yandex.ru)  
+[telegram: @bobazooba](https://t.me/bobazooba)
