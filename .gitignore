@@ -8,6 +8,14 @@
 
 *.zip
 
+/week_02/word2vec_utils.py
+word2vec_utils.py
+
+processed_corpus.json
+corpus.json
+
+week_03/something/
+
 week_01/neural_network/MNIST/
 
 __pycache__/
