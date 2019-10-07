@@ -34,7 +34,7 @@
 
 ### Домашка (первая часть)
 [word2vec](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_02/1.2%20word2vec.ipynb)
-5 баллов, дедлайн - 30.09.2019 23:59
+5 баллов, дедлайн - 07.10.2019 23:59
 
 # Week 03 - Tricks in Deep Learning, Recurrent Neural Networks, Convolutional Neural Networks
  
