@@ -32,20 +32,37 @@
 ### Слайды
 [Word Embeddings](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_02/Week%2002.pdf)
 
-### Домашка (первая часть)
+### Домашка
 [word2vec](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_02/1.2%20word2vec.ipynb)
-5 баллов, дедлайн - 07.10.2019 23:59
+10 баллов, дедлайн - 07.10.2019 23:59
 
 # Week 03 - Tricks in Deep Learning, Recurrent Neural Networks, Convolutional Neural Networks
  
 ### Видео
+[Занятие, первая часть](https://youtu.be/Uz5z0NLi70w)  
+[Занятие, вторая часть](https://youtu.be/L0jfQ_n6SjI)   
+[Занятие, третья часть](https://youtu.be/yF7bDSmfyII)   
+[Занятие, четверта часть](https://youtu.be/VSYG-xMG94U)   
+[Занятие, пятая часть](https://youtu.be/9WnUSoyBzfs) 
 
 ### Слайды
 [Tricks in Deep Learning](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/Tricks%20in%20DL.pdf)  
 [Recurrent Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/RNN.pdf)  
 [Convolutional Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/CNN.pdf)
 
-### Домашка (вторая часть)
+# Week 04 - Language Models
+ 
+### Видео
+[Занятие, первая часть](https://youtu.be/LOH3hx8skMU)   
+[Занятие, вторая часть](https://youtu.be/UEu_cWY2v2M)   
+[Занятие, третья часть](https://youtu.be/mWZ2FvYmSco)   
+
+### Слайды
+[Language Models](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/Language%20Models.pdf)  
+
+### Домашка
+[classification](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/)
+10 баллов, дедлайн - 21.10.2019 23:59
 
 # Связь с преподавателем
 [bobazooba@yandex.ru](mailto:bobazooba@yandex.ru)  
