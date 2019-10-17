@@ -61,7 +61,7 @@
 [Language Models](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/Language%20Models.pdf)  
 
 ### Домашка
-[classification](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/)
+[classification](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_05/Classification%20Subsample%20Mail.ipynb)
 10 баллов, дедлайн - 21.10.2019 23:59
 
 # Связь с преподавателем
