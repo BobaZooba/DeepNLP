@@ -41,9 +41,7 @@
 ### Видео
 [Занятие, первая часть](https://youtu.be/Uz5z0NLi70w)  
 [Занятие, вторая часть](https://youtu.be/L0jfQ_n6SjI)   
-[Занятие, третья часть](https://youtu.be/yF7bDSmfyII)   
-[Занятие, четверта часть](https://youtu.be/VSYG-xMG94U)   
-[Занятие, пятая часть](https://youtu.be/9WnUSoyBzfs) 
+[Занятие, третья часть](https://youtu.be/yF7bDSmfyII) 
 
 ### Слайды
 [Tricks in Deep Learning](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/Tricks%20in%20DL.pdf)  
@@ -53,12 +51,22 @@
 # Week 04 - Language Models
  
 ### Видео
+[Занятие, первая часть](https://youtu.be/VSYG-xMG94U)   
+[Занятие, вторая часть](https://youtu.be/9WnUSoyBzfs) 
+
+### Слайды
+[Language Models](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/Language%20Models.pdf)  
+
+# Week 05 - Sequence2Sequence, Attention
+ 
+### Видео
+
 [Занятие, первая часть](https://youtu.be/LOH3hx8skMU)   
 [Занятие, вторая часть](https://youtu.be/UEu_cWY2v2M)   
 [Занятие, третья часть](https://youtu.be/mWZ2FvYmSco)   
 
 ### Слайды
-[Language Models](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/Language%20Models.pdf)  
+[Transformer](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_05/Transformer.pdf)  
 
 ### Домашка
 [classification](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_05/Classification%20Subsample%20Mail.ipynb)
