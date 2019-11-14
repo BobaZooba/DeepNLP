@@ -17,6 +17,8 @@
 - [Имплементация RNN, LSTM, Bidirectional](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/modeling.py)
 - [Тестирование имплементации выше на корректность размерностей](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/Implementation%20test.ipynb)
 - [Attention from scratch](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_05/Attention%20from%20scratch.ipynb)
+- [Введение в PyTorch через CIFAR 10 для DMIA](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_06/Hello%20CIFAR%2010.ipynb)
+- [От numpy до PyTorch для DMIA](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_06/Hello%20PyTorch.ipynb)
 
 # Syllabus
 
