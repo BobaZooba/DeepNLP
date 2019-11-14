@@ -85,11 +85,10 @@
 [BERT](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_06/BERT.pdf)  
 
 # Дефолтный проект
-[Соревнование на kaggle](https://www.kaggle.com/c/deepnlp-hse-course/overview)
-## [Ответы mail.ru](https://otvet.mail.ru/)
+[Соревнование на kaggle](https://www.kaggle.com/c/deepnlp-hse-course/overview) на основе [ответов mail.ru](https://otvet.mail.ru/)
 
 ## Задача
-**Техническая задача:** предсказать main_category вопроса.
+**Техническая задача:** предсказать main_category вопроса.  
 **Продуктовая задача:** улучшить клиентский опыт за счет предсказания категории вопроса. 
 
 ## Продуктовое описание
