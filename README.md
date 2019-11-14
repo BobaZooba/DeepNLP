@@ -10,7 +10,7 @@
 
 # Syllabus
 
-# Week 01 - Neural Networks
+# Lecture 1 - Neural Networks
 
 ### Видео
 [Первая лекция вкратце](https://youtu.be/jEMdv9fW2ZA)  
@@ -23,7 +23,7 @@
 [n_layer neural network](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_01/neural_network/Homework%201.1.ipynb)
 10 баллов, дедлайн - 30.09.2019 23:59
 
-# Week 02 - Word Embeddings
+# Lecture 2 - Word Embeddings
 
 ### Видео
 [Занятие, первая часть](https://www.youtube.com/watch?v=xjJF5NHFBAY&feature=youtu.be)  
@@ -36,7 +36,7 @@
 [word2vec](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_02/1.2%20word2vec.ipynb)
 10 баллов, дедлайн - 07.10.2019 23:59
 
-# Week 03 - Tricks in Deep Learning, Recurrent Neural Networks, Convolutional Neural Networks
+# Lecture 3 - Tricks in Deep Learning, Recurrent Neural Networks, Convolutional Neural Networks
  
 ### Видео
 [Занятие, первая часть](https://youtu.be/Uz5z0NLi70w)  
@@ -48,7 +48,7 @@
 [Recurrent Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/RNN.pdf)  
 [Convolutional Neural Networks](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/CNN.pdf)
 
-# Week 04 - Language Models
+# Lecture 4 - Language Models
  
 ### Видео
 [Занятие, первая часть](https://youtu.be/VSYG-xMG94U)   
@@ -57,7 +57,7 @@
 ### Слайды
 [Language Models](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_04/Language%20Models.pdf)  
 
-# Week 05 - Sequence2Sequence, Attention
+# Lecture 5 - Sequence2Sequence, Attention
  
 ### Видео
 
@@ -72,7 +72,50 @@
 [classification](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_05/Classification%20Subsample%20Mail.ipynb)
 10 баллов, дедлайн - 24.10.2019 23:59
 
-# Описание проекта
+# Lecture 6 - GPT, BERT, Metric Learning
+ 
+### Видео
+
+[Занятие, первая часть](https://www.youtube.com/watch?v=kizuKRzG2Rs)   
+[Занятие, вторая часть](https://www.youtube.com/watch?v=gMBSPvTg0Gg)   
+[Занятие, третья часть](https://www.youtube.com/watch?v=Wxi8cupTx9Q)   
+[Занятие, четвертая часть](https://www.youtube.com/watch?v=klOSrqiCE8g)   
+
+### Слайды
+[BERT](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_06/BERT.pdf)  
+
+# Дефолтный проект
+[Соревнование на kaggle](https://www.kaggle.com/c/deepnlp-hse-course/overview)
+## [Ответы mail.ru](https://otvet.mail.ru/)
+
+## Задача
+**Техническая задача:** предсказать main_category вопроса.
+**Продуктовая задача:** улучшить клиентский опыт за счет предсказания категории вопроса. 
+
+## Продуктовое описание
+Сейчас человеку самому необходимо выбрать одну из 28-ми верхнеуровневых категорий после того как он написал вопрос. Как правило, клиентам это неудобно и они могут ошибаться в выставлении категории. В итоге качество ответов к этому вопросу сильно понижается.
+
+### Проблемы выставления не той категории:
+- люди, задавшие вопрос, получают менее релевантные ответы;
+- люди, которые ищут уже существующие вопросы, могут не получить ответа или получить слишком плохие/нерелеватные ответы;
+- люди, которые отвечают на вопросы этой категории, не видят этого вопроса;
+- люди, которые отвечают на вопросы неправильно выставленной категории, могут отвечать плохо и им приходится видеть не те вопросы;
+- поисковая выдача загрязняется.
+
+### Продуктовое решение
+Нужно сделать классификатор, который будет по дефолту вставлять категорию, если классификатор достаточно уверен, либо, если не уверен, предлагать клиенту наиболее вероятные категории.
+
+### Дополнительная информация
+Это реальная продуктовая задача с огромным количеством способов решения. Решение сейчас внедряется в mail.ru group
+
+Что можете попробовать:
+- transfer learning;
+- data augmentation;
+- metric learning;
+- pseudo labeling;
+- multitask learning
+
+# Требования к описанию своего проекта
 Дедлайн проекта: 14/12/2019 либо 21/12/2019  
 Описание проекта нужно к 16/11/2019 23:59 - чем позже вы сдаете, тем меньше у вас времени на реализацию
 ## Какая задача?
