@@ -1,12 +1,22 @@
 # HSE Deep Learning in NLP Course
 Курс по глубокому обучению в нлп для магистров компьютерной лингвистики ВШЭ
 
-# Важные ссылки:
+# Важные ссылки
 [Канал с объявлениями](https://t.me/hse_dl_nlp)
 
 [Чат](https://t.me/joinchat/Bp0V0UPTLBJHv3o7XiBFaA)
 
 [Обзор проектов, которые можно сделать](https://youtu.be/TLauwjPkbS0)
+
+# Дополнительные материалы
+
+- [Сравнение логистической регрессии и MLP](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_01/LogReg%20vs%20MLP.ipynb)
+- [Производные некоторых функций](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_01/derivatives.ipynb)
+- [Дополнение к сделанной первой домашке](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_01/neural_network/numpy%20MNIST.ipynb)
+- [Предобработка корпуса](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_02/1.1%20Processing%20corpus.ipynb)
+- [Имплементация RNN, LSTM, Bidirectional](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/modeling.py)
+- [Тестирование имплементации выше на корректность размерностей](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_03/Implementation%20test.ipynb)
+- [Attention from scratch](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course/blob/master/week_05/Attention%20from%20scratch.ipynb)
 
 # Syllabus
 
