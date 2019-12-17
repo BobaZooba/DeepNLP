@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 .idea/
+.vscode/
 .DS_Store/
 .DS_Store
 */.DS_Store/
