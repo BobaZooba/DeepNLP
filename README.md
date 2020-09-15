@@ -1,4 +1,4 @@
-# HSE Deep Learning in NLP Course
+# HSE Deep Learning in NLP Course 2019
 Курс по глубокому обучению в нлп для магистров компьютерной лингвистики ВШЭ
 
 # Важные ссылки
