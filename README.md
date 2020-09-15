@@ -18,5 +18,5 @@
 10 баллов, дедлайн - 23.09.2019 23:59
 
 # Связь с преподавателем
-[bobazooba@yandex.ru](mailto:bobazooba@mail.ru)  
+[bobazooba@mail.ru](mailto:bobazooba@mail.ru)  
 [telegram: @bobazooba](https://t.me/bobazooba)
