@@ -130,16 +130,6 @@ class Parser:
         'health and personal care',
         'tools and home improvement',
         'patio lawn and garden'
-        # 'clothing shoes and jewelry',
-        # 'industrial and scientific',
-        # 'appliances',
-        # 'arts crafts and sewing',
-        # 'toys and games',
-        # 'software',
-        # 'patio lawn and garden',
-        # 'video games',
-        # 'musical instruments',
-        # 'baby'
     ]
 
     def __init__(self,
