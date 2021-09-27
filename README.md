@@ -14,7 +14,7 @@
 - [from numpy import Neural Network](https://github.com/BobaZooba/from-numpy-import-Neural-Network)
 
 ## Туториалы:
-- [Введение в torch и цикл обучения моделей](https://github.com/BobaZooba/from-numpy-import-Neural-Network/blob/main/Intro%20to%20torch.ipynb)
+- [Введение в torch и цикл обучения моделей](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Intro%20to%20torch.ipynb)
 
 ## Полезные материалы:
 - [Производные для MLP на листочке](https://github.com/BobaZooba/DeepNLP/tree/master/Additional%20Materials/DL%20from%20scratch)
