@@ -7,6 +7,9 @@
 ## Видео
 [Плейлист с занятиями](https://www.youtube.com/playlist?list=PLsmH-hsk-jS8ns80NXOQQSiJphGNZourC)
 
+## Слайды
+Находятся в директории `Slides`
+
 ## Доски
 Находятся в директории `Desks`
 
