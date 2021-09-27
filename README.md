@@ -11,7 +11,7 @@
 Находятся в директории `Desks`
 
 ## Домашки
-- [Первая: from numpy import Neural Network](https://classroom.github.com/a/GElo07Vt)
+- [Первая: from numpy import Neural Network](https://github.com/BobaZooba/from-numpy-import-Neural-Network)
 
 
 # Связь с преподавателем
