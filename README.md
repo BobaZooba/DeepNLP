@@ -15,13 +15,15 @@
 
 ## Домашки
 - [from numpy import Neural Network](https://github.com/BobaZooba/from-numpy-import-Neural-Network)
+- [Deep Average Network](https://github.com/BobaZooba/DeepAverageNetwork)
 
 ## Туториалы:
 - [Введение в torch и цикл обучения моделей](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Intro%20to%20torch.ipynb)
+- [Word vectors & Data Loading](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Word%20vectors%20%26%20Data%20Loading.ipynb)
 
 ## Полезные материалы:
 - [Производные для MLP на листочке](https://github.com/BobaZooba/DeepNLP/tree/master/Additional%20Materials/DL%20from%20scratch)
 
 # Связь с преподавателем
-[bobazooba@mail.ru](mailto:bobazooba@mail.ru)  
-[telegram: @bobazooba](https://t.me/bobazooba)
+[bobazooba@mail.ru](mailto:bobazooba@mail.ru)   
+telegram: [@bobazooba](https://t.me/bobazooba)
