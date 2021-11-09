@@ -20,6 +20,8 @@
 ## Туториалы:
 - [Введение в torch и цикл обучения моделей](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Intro%20to%20torch.ipynb)
 - [Word vectors & Data Loading](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Word%20vectors%20%26%20Data%20Loading.ipynb)
+- [Word2vec part 1](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/word2vec%2C%20part1.%20processing%20corpus.ipynb)
+- [Word2vec part 2](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/word2vec%20part%202.ipynb)
 
 ## Полезные материалы:
 - [Производные для MLP на листочке](https://github.com/BobaZooba/DeepNLP/tree/master/Additional%20Materials/DL%20from%20scratch)
