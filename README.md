@@ -24,7 +24,6 @@
 - [Word2vec part 2](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/word2vec%20part%202.ipynb)
 - [Language Model](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Language%20Model.ipynb) 
   - [unsupervised.csv.zip](https://cloud.mail.ru/public/6nLR/q5VUwTmT6) 
-  - [qa_data.jsonl.zip](https://cloud.mail.ru/public/mtXU/fhPrP7MEd) 
 
 ## Полезные материалы:
 - [Производные для MLP на листочке](https://github.com/BobaZooba/DeepNLP/tree/master/Additional%20Materials/DL%20from%20scratch)
