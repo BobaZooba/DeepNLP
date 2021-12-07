@@ -25,6 +25,7 @@
 - [Word2vec part 2](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/word2vec%20part%202.ipynb)
 - [Language Model](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Language%20Model.ipynb) 
   - [unsupervised.csv.zip](https://cloud.mail.ru/public/6nLR/q5VUwTmT6)
+  - [Обученная модель и токенизатор](https://cloud.mail.ru/public/S5tN/7L6ALnb7z)
 - [Bi Encoder for chitchat](https://www.kaggle.com/bobazooba/lstm-baseline)
 
 ## Полезные материалы:
