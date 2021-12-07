@@ -22,7 +22,7 @@
 - [Word vectors & Data Loading](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Word%20vectors%20%26%20Data%20Loading.ipynb)
 - [Word2vec part 1](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/word2vec%2C%20part1.%20processing%20corpus.ipynb)
 - [Word2vec part 2](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/word2vec%20part%202.ipynb)
-- [Language Models](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Language%20Model.ipynb) 
+- [Language Model](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Language%20Model.ipynb) 
   - [unsupervised.csv.zip](https://cloud.mail.ru/public/6nLR/q5VUwTmT6) 
   - [qa_data.jsonl.zip](https://cloud.mail.ru/public/mtXU/fhPrP7MEd) 
 
