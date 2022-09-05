@@ -37,6 +37,11 @@
 ## Полезные материалы:
 - [Производные для MLP на листочке](https://github.com/BobaZooba/DeepNLP/tree/master/Additional%20Materials/DL%20from%20scratch)
 
-# Связь с преподавателем
+# Команда курса
+- [@BobaZooba](https://github.com/BobaZooba)
+- [@aikakysymys](https://github.com/aikakysymys)
+- [@nstsj](https://github.com/nstsj)
+
+## Связь с преподавателем
 [bobazooba@gmail.com](mailto:bobazooba@gmail.com)   
 Telegram: [@bobazooba](https://t.me/bobazooba)
