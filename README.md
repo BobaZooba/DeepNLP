@@ -13,7 +13,11 @@
 
 ## Домашки
 
-[//]: # (- [from numpy import Neural Network]&#40;https://github.com/BobaZooba/from-numpy-import-Neural-Network&#41;)
+### 1. from numpy import Neural Network
+[Ссылка на репозиторий](https://github.com/BobaZooba/from-numpy-import-Neural-Network)  
+Суть задания: написать и обучить небольшую нейронную сеть, использую только ```numpy```  
+Дедлайн: 19/09/2022  
+Далее максимальный балл за работу: 7
 
 [//]: # (- [Deep Average Network]&#40;https://github.com/BobaZooba/DeepAverageNetwork&#41;)
 
