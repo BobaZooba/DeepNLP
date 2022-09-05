@@ -27,7 +27,7 @@
 - [Language Model](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Language%20Model.ipynb) 
   - [unsupervised.csv.zip](https://cloud.mail.ru/public/6nLR/q5VUwTmT6)
   - [Обученная модель и токенизатор](https://cloud.mail.ru/public/S5tN/7L6ALnb7z)
-- [Attention]()
+- [Attention from scratch](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Attention%20from%20scratch.ipynb)
 - [Bi Encoder for chitchat](https://www.kaggle.com/bobazooba/lstm-baseline)
 
 ## Полезные материалы:
