@@ -33,6 +33,7 @@
   - [Обученная модель и токенизатор](https://cloud.mail.ru/public/S5tN/7L6ALnb7z)
 - [Attention from scratch](https://github.com/BobaZooba/DeepNLP/blob/master/Tutorials/Attention%20from%20scratch.ipynb)
 - [Bi Encoder for chitchat](https://www.kaggle.com/bobazooba/lstm-baseline)
+- [Cloud GPU](https://www.youtube.com/watch?v=pgk1zGv5lU4)
 
 ## Полезные материалы:
 - [Производные для MLP на листочке](https://github.com/BobaZooba/DeepNLP/tree/master/Additional%20Materials/DL%20from%20scratch)
